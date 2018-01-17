@@ -1,2 +1,4 @@
-print("hello world")
-print("git is complicated")
+#This program writes hello world
+def main():
+    print("hello world")
+main()
