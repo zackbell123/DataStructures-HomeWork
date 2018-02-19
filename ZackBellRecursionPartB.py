@@ -15,7 +15,6 @@ def fibo(n):
     return x
 def fibod(n):
     x,y = 1,1
-    t1 = time.time()
     if(len(memory)>=n):
         return memory[n]
     else:
